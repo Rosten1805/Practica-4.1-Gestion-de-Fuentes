@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Práctica 4.1 Gestión de Fuentes", "Práctica 4.1 Gestión de Fuentes\Práctica 4.1 Gestión de Fuentes.csproj", "{207B6AA1-B12B-4CC0-A27D-58FA65AFA4BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{207B6AA1-B12B-4CC0-A27D-58FA65AFA4BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207B6AA1-B12B-4CC0-A27D-58FA65AFA4BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207B6AA1-B12B-4CC0-A27D-58FA65AFA4BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207B6AA1-B12B-4CC0-A27D-58FA65AFA4BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {581CA996-4FA3-4470-B71C-73380F822C83}
+	EndGlobalSection
+EndGlobal
